@@ -1,0 +1,10 @@
+﻿{
+  "client_id": "https://ib-dotcom.github.io/shopify-mcp-client/client.json",
+  "client_name": "Pethaze Store Console",
+  "client_uri": "https://github.com/ib-dotcom",
+  "redirect_uris": ["http://127.0.0.1:47831/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "native"
+}
