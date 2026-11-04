@@ -1,5 +1,5 @@
 {
-  "client_id": "https://ib-dotcom.github.io/shopify-mcp-client/client.json",
+  "client_id": "https://raw.githack.com/ib-dotcom/shopify-mcp-client/main/client.json",
   "client_name": "Pethaze Store Console",
   "client_uri": "https://github.com/ib-dotcom",
   "redirect_uris": ["http://127.0.0.1:47831/callback"],
